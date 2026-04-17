@@ -1,1 +1,1 @@
-echo console.log("Hello, Distroless!"); >main.js
+echo console.log("Hello, Distroless!2222"); >main.js
